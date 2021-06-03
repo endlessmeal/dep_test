@@ -1,0 +1,4 @@
+aiohttp>=3.7
+peewee-async>=0.7
+aiopg>=1.2 # peewee-async needs an aiopg as a driver for postgres
+marshmallow>=3.12
