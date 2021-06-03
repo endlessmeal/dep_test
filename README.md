@@ -5,7 +5,7 @@ API (aiohttp, async peewee, marshmallow)
 
 ### API Endpoints
 
-#### Admin's endpoints
+#### List of endpoints
 
 * **/api/v1/list_pages** (Endpoint for list of pages with only name and url)
 * **/api/v1/page/{page_id}** (Endpoint for list of all information of blocks py page id)
