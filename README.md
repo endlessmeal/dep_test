@@ -11,7 +11,8 @@ API (aiohttp, async peewee, marshmallow)
 * **/api/v1/page/{page_id}** (Endpoint for list of all information of blocks py page id)
 
 Notice that you need python 3.8 or higher
-Clone repo at first.
+1. Clone repo at first.
+2. Change settings file with your parameters
 
 ### Install (for UNIX/MAC OS)
     pip3 install virtualenv
