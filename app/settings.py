@@ -1,7 +1,7 @@
 DATABASE = {
-    "NAME": "dep_test",
-    "USER": "nazarbaloan",
-    "PASSWORD": "postgres",
+    "NAME": "your name of db",
+    "USER": "your name",
+    "PASSWORD": "your password",
     "HOST": "localhost",
     "PORT": "5432",
 }
